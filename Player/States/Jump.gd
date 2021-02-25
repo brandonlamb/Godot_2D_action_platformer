@@ -1,6 +1,5 @@
 extends PlayerState
 
-
 func unhandled_input(event:InputEvent)->void:
 	parent.unhandled_input(event)
 

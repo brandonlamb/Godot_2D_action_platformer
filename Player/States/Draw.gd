@@ -1,5 +1,9 @@
 extends PlayerState
 
+"""
+Draw SWORD
+"""
+
 var hit: = false
 
 func unhandled_input(event:InputEvent)->void:
